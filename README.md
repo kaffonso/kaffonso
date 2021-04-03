@@ -1,8 +1,8 @@
 # I am kafonso
-<p>
+<div align="left">
 [![Website](https://img.shields.io/badge/Informatic--&--Telecomunication--Engineering--Student-UTA-blue?style=for-the-badge&logo=appveyor)](https://google.com)
-![prog](https://github.com/kaffonso/kaffonso/blob/main/prog.gif)
-</p>
+![prog](https://github.com/kaffonso/kaffonso/blob/main/prog.gif)</li>
+</div>
 
 ## Short description
 - 🔭 I’m currently working on - Orrie

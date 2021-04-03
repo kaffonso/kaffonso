@@ -5,9 +5,9 @@
 - 🔭 I’m currently working on - Orrie
 - 🌱 I’m currently learning - C, Java, Javascript & SQL
 - 👯 I’m looking to collaborate with - Some good ideas, and also codes
-- 💬 Ask me about - Programming questions
-- 🥅 2021 Goal - Learn and practice more
-- ⚡ Fun fact - I also do calistenic
+- 🤔 I'm lokking for help with - Backend of my website
+- 💬 Ask me about - Anything but most Website Design
+- ⚡ Fun fact - I love Mr.Robot 🤖
 - 
 ##   Activity details
 <!-- .... means username in below README.md -->

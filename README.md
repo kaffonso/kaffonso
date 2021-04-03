@@ -14,7 +14,7 @@
 ##   Activity details
 <!-- .... means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
-[![kafonso's github stats](https://github-readme-stats.vercel.app/api?username=kaffonso&count_private=true&show_icons=true&include_all_commits=true&theme=dark_red)](https://github.com/kaffonso)
+[![kafonso's github stats](https://github-readme-stats.vercel.app/api?username=kaffonso&count_private=true&show_icons=true&include_all_commits=true&theme=prussian)](https://github.com/kaffonso)
  </p>
 
 ## Connect with me:

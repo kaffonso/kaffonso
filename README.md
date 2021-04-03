@@ -1,6 +1,14 @@
 # I am kafonso
 [![Website](https://img.shields.io/badge/Informatic--&--Telecomunication--Engineering--Student-UTA-blue?style=for-the-badge&logo=appveyor)](https://google.com)
 
+## Short description
+- 🔭 I’m currently working on - Orrie
+- 🌱 I’m currently learning - C, Java, Javascript & SQL
+- 👯 I’m looking to collaborate with - Some good ideas, and also codes
+- 💬 Ask me about - Programming questions
+- 🥅 2021 Goal - Learn and practice more
+- ⚡ Fun fact - I also do calistenic
+- 
 ##   Activity details
 <!-- .... means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
@@ -28,5 +36,3 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<!-- This section you create this variables that are used above -->
-[linkedin]: https://www.linkedin.com/in/roberto-medina-28062318a/

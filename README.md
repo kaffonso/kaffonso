@@ -2,17 +2,11 @@
 [![Website](https://img.shields.io/badge/Software--Engineering--Student-UTA-green?style=flat-square)](https://google.com)
 
 ## Short description
-- 🔭 I’m currently working on - Game Development
-- 🌱 I’m currently learning - Machine Learnning
-- 👯 I’m looking to collaborate with - Some good ideas, and also codes
-- 💬 Ask me about - Programming questions
-- 🥅 2021 Goal - Learn and practice more
-- ⚡ Fun fact - I also do calistenic
 
 ##   Activity details
 <!-- .... means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
-[![RobertoCarlosMedina's github stats](https://github-readme-stats.vercel.app/api?username=RobertoCarlosMedina&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/RobertoCarlosMedina)
+[![kafonso's github stats](https://github-readme-stats.vercel.app/api?username=kaffonso&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/kaffonso)
  </p>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoCarlosMedina&hide=html,css&langs_count=8&theme=radical&layout=compact)](https://github.com/RobertoCarlosMedina)

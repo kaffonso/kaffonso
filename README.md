@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate with - Some good ideas, and also codes
 - 🤔 I'm lokking for help with - Backend of my website
 - 💬 Ask me about - Anything but most Website Design
-- ⚡ Fun fact - I love Mr.Robot 🤖
+- ⚡ Fun fact - I've watched Sillicon Valley & Mr.Robot 🤓
 
 ##   Activity details
 <!-- .... means username in below README.md -->

@@ -1,5 +1,5 @@
 # I am kafonso
-[![Website](https://img.shields.io/badge/Informatic--&--Telecomunication--Engineering--Student-UTA-blue?style=for-the-badge&logo=appveyor)](https://google.com)
+<p>[![Website](https://img.shields.io/badge/Informatic--&--Telecomunication--Engineering--Student-UTA-blue?style=for-the-badge&logo=appveyor)](https://google.com)</p>
 ![prog](https://github.com/kaffonso/kaffonso/blob/main/prog.gif)
 
 ## Short description

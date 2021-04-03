@@ -14,18 +14,17 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />-->
 ## Connect with me:
-<p align="center">
-     <a href="https://wa.me/+2385843604"><img alt="WhatsApp"  title="WhatsApp" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-ar21.svg"   width="100" height="50" /></a>
-     <a href="mailto:rmedina@uta.cv"><img alt="Gmail"  title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"   width="100" height="50" /></a>
+<p align="left">
+     <a href="https://wa.me/+2386977491"><img alt="WhatsApp"  title="WhatsApp" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-ar21.svg"   width="100" height="50" /></a>
+     <a href="mailto:kafonso.dev@gmail.com"><img alt="Gmail"  title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"   width="100" height="50" /></a>
      <a href="https://www.instagram.com/_roberto_rob/"><img title="Instgrame" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"   width="100" height="50" /></a>
-     <a href="https://twitter.com/Roberto83255889"><img title="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"   width="100" height="50" /></a>
-     <a href="https://www.facebook.com/menssage.roberto.04.contact/"><img title="Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg"   width="100" height="50" /></a>
+     <a href="https://twitter.com/kenny_aafonso"><img title="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"   width="100" height="50" /></a>
+     <a href="https://www.facebook.com/menssage.kenny.afonso.contact/"><img title="Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg"   width="100" height="50" /></a>
 </p>
 
 <!-- Optional if you have blogs -->
 ##   Working on:
-- [Moonlove app](https://github.com/RobertoCarlosMedina/Moonlove)
-- [Algorithms and Data Structure](https://github.com/RobertoCarlosMedina/AlgorDataStruct)
+- [Orrie - Online Restaurant Review [Website]](https://github.com/kaffonso/Orrie)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

@@ -1,7 +1,5 @@
 # I am kafonso
-[![Website](https://img.shields.io/badge/Software--Engineering--Student-UTA-green?style=flat-square)](https://google.com)
-
-## Short description
+[![Website](https://img.shields.io/badge/Informatic--&--Telecomunication--Engineering--Student-UTA-blue?style=flat-square)](https://google.com)
 
 ##   Activity details
 <!-- .... means username in below README.md -->

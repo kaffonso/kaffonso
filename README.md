@@ -16,7 +16,8 @@
 <!-- Also feel free to update second URL to any URL -->
 [![kafonso's github stats](https://github-readme-stats.vercel.app/api?username=kaffonso&count_private=true&show_icons=true&include_all_commits=true&theme=prussian)](https://github.com/kaffonso)
  </p>
-##   Top languages
+ 
+## Top languages
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaffonso&langs_count=10&theme=tokyonight&layout=compact" alt="kaffonso :: Top Langs" /></p>
 

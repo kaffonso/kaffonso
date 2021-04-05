@@ -7,7 +7,7 @@
 - ✍️ I’m currently working on - Orrie
 - 📓 I’m currently learning - C, Java, Javascript & SQL
 - 🤝 I’m looking to collaborate with - Some good ideas, and also codes
-- 🤔 I'm lokking for help with - Backend of my website
+- 🤔 I'm looking for help with - Backend of my website
 - 💬 Ask me about - Anything but most Website Design
 - 👁 Fun fact - I've watched Sillicon Valley & Mr.Robot 🤓
 

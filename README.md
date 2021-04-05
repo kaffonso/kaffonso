@@ -11,6 +11,9 @@
 - 💬 Ask me about - Anything but most Website Design
 - 👁 Fun fact - I've watched Sillicon Valley & Mr.Robot 🤓
 
+## My logo
+![img](https://github.com/kaffonso/kaffonso/blob/main/Small%20curve.png)
+
 ##   Activity details
 <!-- .... means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->

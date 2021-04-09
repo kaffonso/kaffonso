@@ -32,7 +32,7 @@
 
 <!-- Optional if you have blogs -->
 ##   Working on:
-- [Orrie - Online Restaurant Review [Website]](https://github.com/kaffonso/Orrie)
+- [Orrie - Online Restaurant Review [Website]](https://orrie.vercel.app)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

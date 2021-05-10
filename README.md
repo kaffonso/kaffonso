@@ -15,12 +15,6 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaffonso&langs_count=10&theme=tokyonight&layout=compact" alt="kaffonso :: Top Langs" /></p>
 
-##   Activity details
-<!-- .... means username in below README.md -->
-<!-- Also feel free to update second URL to any URL -->
-[![kafonso's github stats](https://github-readme-stats.vercel.app/api?username=kaffonso&count_private=true&show_icons=true&include_all_commits=true&theme=prussian)](https://github.com/kaffonso)
- </p>
-
 ## Connect with me:
 <p align="left">
      <a href="https://wa.me/+2386977491"><img alt="WhatsApp" title="WhatsApp" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-ar21.svg"   width="100" height="50" /></a>

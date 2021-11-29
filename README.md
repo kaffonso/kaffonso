@@ -1,6 +1,6 @@
-# Hello, my name is kafonso
+# Hello, my name is kafonso 
 [![Website](https://img.shields.io/badge/Informatic--&--Telecomunication--Engineering--Student-UTA-blue?style=for-the-badge&logo=github)](https://google.com)
-
+<img src="https://komarev.com/ghpvc/?username=kaffonso&color=orange&label=Views&style=flat-square" align="right"/>
 ![prog](https://github.com/kaffonso/kaffonso/blob/main/prog.gif)
 
 ## Short description

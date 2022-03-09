@@ -15,10 +15,10 @@
 
 ## Connect with me:
 <p align="left">
-     <a href="https://wa.me/+2386977491"><img alt="WhatsApp" title="WhatsApp" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg"   width="100" height="50" /></a>
-     <a href="mailto:kafonso.dev@gmail.com"><img alt="Gmail" title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"   width="100" height="50" /></a>
-     <a href="https://twitter.com/itskafonso"><img title="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"   width="100" height="50" /></a>
-     <a href="https://www.facebook.com/kenny.afonso/"><img title="Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg"   width="100" height="50" /></a>
+     <a href="https://wa.me/+2386977491"><img alt="WhatsApp" title="WhatsApp" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg"   width="100" height="50" /></a>
+     <a href="mailto:kafonso.dev@gmail.com"><img alt="Gmail" title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"   width="100" height="50" /></a>
+     <a href="https://twitter.com/itskafonso"><img title="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"   width="100" height="50" /></a>
+     <a href="https://www.facebook.com/kenny.afonso/"><img title="Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg"   width="100" height="50" /></a>
 </p>
 
 <!-- Optional if you have blogs -->

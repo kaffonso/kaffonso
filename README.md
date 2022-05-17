@@ -13,6 +13,10 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaffonso&langs_count=10&theme=tokyonight&layout=compact" alt="kaffonso :: Top Langs" /></p>
 
+## Trophies
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaffonso" alt="kaffonso" /></a> </p>
+
 ## Connect with me:
 <p align="left">
      <a href="https://wa.me/+2386977491"><img alt="WhatsApp" title="WhatsApp" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg"   width="50" height="50" /></a>

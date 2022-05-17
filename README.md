@@ -15,7 +15,7 @@
 
 ## Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaffonso" alt="kaffonso" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=kaffonso" alt="kaffonso" /> </p>
 
 ## Connect with me:
 <p align="left">

@@ -3,12 +3,6 @@
 <img src="https://komarev.com/ghpvc/?username=kaffonso&color=orange&label=Views&style=flat-square" align="right"/>
 ![prog](https://github.com/kaffonso/kaffonso/blob/main/prog.gif)
 
-## Short description
-- ✍️ I’m currently working on - APIs
-- 📓 I’m currently learning - NodeJS and ReactJS
-- 💬 Ask me about - Anything but most Website Design
-- 👁 Fun fact - I've watched Sillicon Valley & Mr.Robot 🤓
-
 ## Top languages
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaffonso&langs_count=10&theme=tokyonight&layout=compact" alt="kaffonso :: Top Langs" /></p>

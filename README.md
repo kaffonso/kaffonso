@@ -9,10 +9,7 @@
 
 ## Connect with me:
 <p align="left">
-     <a href="https://wa.me/+2386977491"><img alt="WhatsApp" title="WhatsApp" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg"   width="50" height="50" /></a>
-     <a href="mailto:kafonso.dev@gmail.com"><img alt="Gmail" title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"   width="50" height="50" /></a>
-     <a href="https://twitter.com/itskafonso"><img title="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"   width="50" height="50" /></a>
-
+<a href="mailto:kafonso.dev@gmail.com"><img alt="Gmail" title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"   width="50" height="50" /></a>
 
 <!-- Optional if you have blogs -->
 ##   Working on:

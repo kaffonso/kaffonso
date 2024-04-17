@@ -17,6 +17,3 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## My logo (turn on dark mode!)
-![img](https://github.com/kaffonso/kaffonso/blob/main/Small%20curve.png)
-

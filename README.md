@@ -5,7 +5,7 @@
 
 ## Top languages
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaffonso&langs_count=10&theme=tokyonight&layout=compact" alt="kaffonso :: Top Langs" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaffonso&langs_count=10&theme=tokyonight&layout=compact" alt="kaffonso :: Top Languages" /></p>
 
 ## Connect with me:
 <p align="left">

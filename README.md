@@ -1,7 +1,4 @@
 # Hello, my name is kafonso 
-[![Website](https://img.shields.io/badge/Informatic--&--Telecomunication--Engineering--Student-UTA-blue?style=for-the-badge&logo=github)](https://google.com)
-<img src="https://komarev.com/ghpvc/?username=kaffonso&color=orange&label=Views&style=flat-square" align="right"/>
-![prog](https://github.com/kaffonso/kaffonso/blob/main/prog.gif)
 
 ## Top languages
 
@@ -10,10 +7,6 @@
 ## Connect with me:
 <p align="left">
 <a href="mailto:kafonso.dev@gmail.com"><img alt="Gmail" title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"   width="50" height="50" /></a>
-
-<!-- Optional if you have blogs -->
-##   Working on:
-- [Orrie - Online Restaurant Review [Website]](https://orrie.vercel.app)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

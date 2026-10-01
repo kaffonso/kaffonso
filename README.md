@@ -1,55 +1,84 @@
-<h1 align="center">Hi, I'm Kenny Afonso 👋</h1>
+<h1 align="center">Kenny Afonso</h1>
 
 <p align="center">
-  Software engineer from São Vicente, Cabo Verde 🇨🇻<br>
-  I build web apps, APIs and browser extensions, with a soft spot for cybersecurity.
+  Software engineer and interface designer from São Vicente, Cabo Verde 🇨🇻<br>
+  Front-end and mobile: React, Next.js, React Native, TypeScript. Cybersecurity on the side.
 </p>
 
 <p align="center">
-  <a href="mailto:kafonso.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-kafonso.dev%40gmail.com-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://kafonso.cv"><img alt="Website" src="https://img.shields.io/badge/kafonso.cv-111111?logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kenny-afonso/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:kafonso.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=kaffonso&color=blue">
 </p>
 
-## 🔭 What I'm working on
+## 💼 Experience
 
-**[Meeting Transcript Exporter](https://github.com/kaffonso/Meeting-Transcript-Exporter)**, a Chrome extension that exports the meeting transcript you're looking at to Markdown or plain text in one click. No AI, no account, no servers. Supports Fireflies.ai, tl;dv and Otter.ai, with an adapter system so adding a new app is one file.
+### [CriaAI](https://criaai.com) · Software Engineer · 2024 to today
+AI products for Brazilian lawyers. Remote, Florianópolis. I lead front-end development across the B2B products and contribute to the consumer app.
+
+- **Copiloto (Legal Copilot)** · lead front-end. Generates litigation documents from case files, a configurable thesis tree and AI-assisted question flows. Next.js 15, Redux Toolkit, collaborative editor, PDF export, Cypress. Shipped a full redesign screen by screen from written specs. I also built the thesis setup front end.
+- **Processos (Painel de Cadastramento)** · lead front-end. Case intake and office management: bulk registration from CSV and XLSX, folder and case detail, triage lists, office dashboard with ROI, user management. Next.js 14, RTK Query, Tailwind, shadcn, Docker.
+- **Mock front ends** · solo. 1:1 copies of the products that run with no backend, with routing shimmed over the History API and every API call served in memory. Used for design reviews and demos.
+- **criaai.com (B2C)** · contributor. Sign-up and registration flows, new AI assistants, plan and upsell logic, jurisprudence search.
+
+### [Chuva](https://chuva.io) · Front-end and Mobile Engineer · 2022 to 2024
+Mindelo, Cabo Verde. Engineered web and mobile apps with React, Next.js, React Native and Webflow, designed in Figma, and served as interim Product Owner.
+
+- **Ping / PingPOS** · fintech
+- **Samba** · SaaS
+- **Cabnave & Atlantic Shipping** · logistics
+- **Prassa** · e-commerce
 
 ## 🚀 Projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| [Meeting-Transcript-Exporter](https://github.com/kaffonso/Meeting-Transcript-Exporter) | Export meeting transcripts to `.md` / `.txt`, fully local, with XP and badges for fun | JavaScript, Manifest V3 |
-| [RegisterAutenticationAPI](https://github.com/kaffonso/RegisterAutenticationAPI) | Register and authentication API, ready to drop into a project | Node.js, Express, MongoDB |
-| [ToDo-API](https://github.com/kaffonso/ToDo-API) · [ToDo-ReactApp](https://github.com/kaffonso/ToDo-ReactApp) | Free-to-use to-do API and the React front end that consumes it | Node.js, React |
-| [BookShop-Server](https://github.com/kaffonso/BookShop-Server) | Bookshop back end | Python, Flask |
-| [SIAC-CMI](https://github.com/kaffonso/SIAC-CMI) · [backend](https://github.com/kaffonso/SIAC-CMI-BCK) | Application, enrolment and registration system built as a university group project | JavaScript |
-| [MindelPharma](https://github.com/kaffonso/MindelPharma) | Android app for finding pharmacies | Java, Android Studio |
-| [Orrie](https://github.com/kaffonso/Orrie) | Restaurant online reviews | HTML, CSS, JavaScript |
-| [AI Pacman](https://github.com/kaffonso/P1_ai_pacman_searchagents) · [multi-agents](https://github.com/kaffonso/P2_ai_pacman_multiagents) | Search and multi-agent algorithms from the Berkeley AI course | Python |
+**[NhaFarma](https://nhafarma.cv)** · founder, 2025
+Progressive Web App showing which pharmacies are on duty across Cabo Verde in real time, with location and opening hours. Next.js, Redux, TypeScript, with its own API. Selected for BoostCV Demo Day and represented Cabo Verde at Web Summit 2025.
 
-## 🛠️ Tools I use
+**[Meeting Transcript Exporter](https://github.com/kaffonso/Meeting-Transcript-Exporter)** · open source
+Chrome extension that exports the meeting transcript you're looking at to Markdown or plain text in one click. No AI, no account, no servers. Supports Fireflies.ai, tl;dv and Otter.ai through an adapter system where a new app is one file.
+
+**ChopChop** · mobile
+Appointment app for barbers and clients, with role-based onboarding and a separate booking and schedule flow for each side. React Native, Expo, TypeScript, Node API.
+
+**FormInvest** · client work
+Website, app and API for a professional training centre in Cabo Verde, with courses, workshops and scholarships managed through a CMS. Next.js, Sanity, Laravel.
+
+## 🔐 Cybersecurity
+
+Capture The Flag competitions: penetration testing, vulnerability analysis and ethical hacking.
+
+- ECOWAS Regional Hackathon 2024 · Abuja, Nigeria
+- ECOWAS Regional Hackathon 2023 · Lomé, Togo
+- Hackerlab 2022 · Cotonou, Benin
+
+## 🛠️ Stack
 
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white">
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB">
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white">
+  <img alt="Redux" src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white">
+  <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white">
+  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white">
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
+  <img alt="Webflow" src="https://img.shields.io/badge/Webflow-4353FF?logo=webflow&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white">
 </p>
+
+## 🎓 Education
+
+Engenharia Informática e Telecomunicações · [Universidade Técnica do Atlântico](https://uta.cv), Mindelo
 
 ## 📊 Stats
 
 <p>
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kaffonso&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kaffonso&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaffonso&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
-
-## 📫 Get in touch
-
-- Email: [kafonso.dev@gmail.com](mailto:kafonso.dev@gmail.com)
-- Found a transcription app the exporter doesn't support yet? [Request it](https://github.com/kaffonso/Meeting-Transcript-Exporter/issues/new?template=adapter_request.yml).

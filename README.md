@@ -38,19 +38,19 @@ Every pharmacy in Cabo Verde with the official monthly duty roster, a map with l
 **[Meeting Transcript Exporter](https://github.com/kaffonso/Meeting-Transcript-Exporter)** · open source
 Chrome extension that exports the meeting transcript you're looking at to Markdown or plain text in one click. No AI, no account, no servers. Supports Fireflies.ai, tl;dv and Otter.ai through an adapter system where a new app is one file.
 
-**ChopChop** · mobile
-Appointment app for barbers and clients, with role-based onboarding and a separate booking and schedule flow for each side. React Native, Expo, TypeScript, Node API.
+**[ChopChop](https://chopchop.cv)** · founder
+Online booking for barbershops in Cabo Verde: one link per shop with services, prices and portfolio, a shared agenda for the team, WhatsApp reminders, analytics and a cash register. Live and free during early access. React, Vite, Tailwind, Supabase, Node.js, Express, BullMQ, Redis, PWA.
 
 **FormInvest** · client work
-Website, app and API for a professional training centre in Cabo Verde, with courses, workshops and scholarships managed through a CMS. Next.js, Sanity, Laravel.
+Website and management app for a professional training centre in Cabo Verde. I did the product design, UI/UX and front end; my partner built the API. Next.js, Redux Toolkit, Sanity.
 
 ## 🔐 Cybersecurity
 
 Capture The Flag competitions: penetration testing, vulnerability analysis and ethical hacking.
 
-- ECOWAS Regional Hackathon 2024 · Abuja, Nigeria
-- ECOWAS Regional Hackathon 2023 · Lomé, Togo
-- Hackerlab 2022 · Cotonou, Benin
+- [ECOWAS Regional Cybersecurity Hackathon 2024](https://www.ecowas.int/2024-hackathon-regional-de-ciberseguranca-da-cedeao-arranca-em-abuja/?lang=pt-pt) · Abuja, Nigeria
+- [ECOWAS Regional Cybersecurity Hackathon 2023](https://www.ecowas.int/2023-ecowas-regional-hackthon-48-hrs-non-stop-begins-in-lome/) · Lomé, Togo
+- [Hackerlab 2022, ECOWAS edition](https://hi-labz.com/retour-sur-le-hacker-lab-2022-de-cotonou/) · Cotonou, Benin
 
 ## 🛠️ Stack
 

@@ -33,7 +33,7 @@ Mindelo, Cabo Verde. Engineered web and mobile apps with React, Next.js, React N
 ## 🚀 Projects
 
 **[NhaFarma](https://nhafarma.cv)** · founder, 2025
-Every pharmacy in Cabo Verde with the official monthly duty roster, a map with location sorting, Portuguese and English, installable and offline. Next.js, Redux, TypeScript, OpenStreetMap, with its own API. Selected for BoostCV Demo Day and represented Cabo Verde at Web Summit 2025.
+Every pharmacy in Cabo Verde with the official monthly duty roster, a map with location sorting, Portuguese and English, installable and offline. Next.js, Redux, TypeScript, OpenStreetMap, with its own API. [Silver for Best Visual Identity, healthcare sector, Transform Awards MEA 2026](https://www.transformmagazine.net/awards/mea/past-winners/2026-transform-awards-mea/), part of [Cabo Verde's delegation to Web Summit 2025](https://www.balai.cv/noticias/cabo-verde-leva-maior-delegacao-nacional-ao-web-summit-com-apoio-da-uniao-europeia/), and a [BOOST.CV](https://boost.cv/) Demo Day startup. [Instagram](https://www.instagram.com/nhafarma.cv) · [LinkedIn](https://www.linkedin.com/company/nhafarma)
 
 **[Meeting Transcript Exporter](https://github.com/kaffonso/Meeting-Transcript-Exporter)** · open source
 Chrome extension that exports the meeting transcript you're looking at to Markdown or plain text in one click. No AI, no account, no servers. Supports Fireflies.ai, tl;dv and Otter.ai through an adapter system where a new app is one file.

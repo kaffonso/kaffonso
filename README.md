@@ -14,12 +14,12 @@
 
 ## 💼 Experience
 
-### [CriaAI](https://criaai.com), through [IN8](https://www.in8.com.br) · Product Designer and Software Engineer · 2024 to today
-AI products for Brazilian lawyers. Remote, Florianópolis. I work across the consumer app, the two B2B products and internal tools, leading the front end of the B2B side.
+### [CriaAI](https://criaai.com), through [IN8](https://www.in8.com.br) · Product Designer, UI/UX and Front-end Engineer · 2024 to today
+AI products for Brazilian lawyers. Remote, Florianópolis. I designed and built the front end of the whole product line from the ground up: product design, UI/UX and engineering.
 
-- **[Maestro Gestor de Peças](https://copiloto.criaai.com)** · drafts litigation documents from case files and a configurable thesis tree. Most of the front end, plus a full redesign.
-- **[Maestro Cadastramento](https://processos.criaai.com)** · case intake and office management dashboard. Front-end lead.
-- **[CriaAI Documentos Jurídicos](https://criaai.app.br)** · the consumer app. Front end built from the ground up.
+- **[Maestro Gestor de Peças](https://copiloto.criaai.com)** · drafts litigation documents from case files and a configurable thesis tree. Plus a full redesign.
+- **[Maestro Cadastramento](https://processos.criaai.com)** · case intake and office management dashboard.
+- **[CriaAI Documentos Jurídicos](https://criaai.app.br)** · the consumer app.
 - Internal tools for the team.
 
 ### [Chuva](https://chuva.io) · Front-end and Mobile Engineer · 2022 to 2024

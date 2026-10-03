@@ -19,7 +19,7 @@ AI products for Brazilian lawyers. Remote, Florianópolis. I work across the con
 
 - **[Maestro Gestor de Peças](https://copiloto.criaai.com)** · drafts litigation documents from case files and a configurable thesis tree. Most of the front end, plus a full redesign.
 - **[Maestro Cadastramento](https://processos.criaai.com)** · case intake and office management dashboard. Front-end lead.
-- **[criaai.app.br](https://criaai.app.br)** · the consumer app. Front end built from the ground up.
+- **[CriaAI Documentos Jurídicos](https://criaai.app.br)** · the consumer app. Front end built from the ground up.
 - Internal tools for the team.
 
 ### [Chuva](https://chuva.io) · Front-end and Mobile Engineer · 2022 to 2024

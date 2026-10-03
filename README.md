@@ -1,7 +1,7 @@
 <h1 align="center">Kenny Afonso</h1>
 
 <p align="center">
-  Software engineer and interface designer from São Vicente, Cabo Verde 🇨🇻<br>
+  Product designer and software engineer from São Vicente, Cabo Verde 🇨🇻<br>
   Front-end and mobile: React, Next.js, React Native, TypeScript. Cybersecurity on the side.
 </p>
 
@@ -14,11 +14,11 @@
 
 ## 💼 Experience
 
-### [CriaAI](https://criaai.com) · Software Engineer · 2024 to today
-AI products for Brazilian lawyers. Remote, Florianópolis. I lead front-end development across the B2B products and contribute to the consumer app.
+### [CriaAI](https://criaai.com) · Product Designer and Software Engineer · 2024 to today
+AI products for Brazilian lawyers. Remote, Florianópolis. I work across the consumer app, the two B2B products and internal tools, leading the front end of the B2B side.
 
-- **Copiloto (Legal Copilot)** · lead front-end. Generates litigation documents from case files, a configurable thesis tree and AI-assisted question flows. Next.js 15, Redux Toolkit, collaborative editor, PDF export, Cypress. Shipped a full redesign screen by screen from written specs. I also built the thesis setup front end.
-- **Processos (Painel de Cadastramento)** · lead front-end. Case intake and office management: bulk registration from CSV and XLSX, folder and case detail, triage lists, office dashboard with ROI, user management. Next.js 14, RTK Query, Tailwind, shadcn, Docker.
+- **[Maestro Gestor de Peças](https://copiloto.criaai.com)** · lead front-end. Generates litigation documents from case files, a configurable thesis tree and AI-assisted question flows. Next.js 15, Redux Toolkit, collaborative editor, PDF export, Cypress. Shipped a full redesign screen by screen from written specs. I also built the thesis setup front end.
+- **[Maestro Cadastramento](https://processos.criaai.com)** · lead front-end. Case intake and office management: bulk registration from CSV and XLSX, folder and case detail, triage lists, office dashboard with ROI, user management. Next.js 14, RTK Query, Tailwind, shadcn, Docker.
 - **Mock front ends** · solo. 1:1 copies of the products that run with no backend, with routing shimmed over the History API and every API call served in memory. Used for design reviews and demos.
 - **criaai.com (B2C)** · contributor. Sign-up and registration flows, new AI assistants, plan and upsell logic, jurisprudence search.
 
@@ -33,7 +33,7 @@ Mindelo, Cabo Verde. Engineered web and mobile apps with React, Next.js, React N
 ## 🚀 Projects
 
 **[NhaFarma](https://nhafarma.cv)** · founder, 2025
-Progressive Web App showing which pharmacies are on duty across Cabo Verde in real time, with location and opening hours. Next.js, Redux, TypeScript, with its own API. Selected for BoostCV Demo Day and represented Cabo Verde at Web Summit 2025.
+Every pharmacy in Cabo Verde with the official monthly duty roster, a map with location sorting, Portuguese and English, installable and offline. Next.js, Redux, TypeScript, OpenStreetMap, with its own API. Selected for BoostCV Demo Day and represented Cabo Verde at Web Summit 2025.
 
 **[Meeting Transcript Exporter](https://github.com/kaffonso/Meeting-Transcript-Exporter)** · open source
 Chrome extension that exports the meeting transcript you're looking at to Markdown or plain text in one click. No AI, no account, no servers. Supports Fireflies.ai, tl;dv and Otter.ai through an adapter system where a new app is one file.

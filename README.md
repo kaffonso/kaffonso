@@ -22,12 +22,12 @@ AI products for Brazilian lawyers. Remote, Florianópolis. I designed and built 
 - **[CriaAI Documentos Jurídicos](https://criaai.app.br)** · the consumer app.
 - Internal tools for the team.
 
-### [Chuva](https://chuva.io) · Front-end and Mobile Engineer · 2022 to 2024
-Mindelo, Cabo Verde. Engineered web and mobile apps with React, Next.js, React Native and Webflow, designed in Figma, and served as interim Product Owner.
+### [Chuva](https://www.linkedin.com/company/chuva/) · Front-end and Mobile Engineer · 2022 to 2024
+Mindelo, Cabo Verde. Engineered web and mobile apps with React, Next.js, React Native and Webflow, designed in Figma, and served as interim Product Owner. The studio has since closed ([site archived](https://web.archive.org/web/20240225203736/https://chuva.io/)).
 
-- **Ping / PingPOS** · fintech
+- **[Ping](https://www.instagram.com/ping.cv/) / PingPOS** · fintech. [Covered by Mindel Insite, March 2023](https://mindelinsite.com/publireportagem/ping-o-aplicativo-para-o-envio-instantaneo-de-dinheiro-para-cabo-verde-e-dentro-das-ilhas/).
 - **Samba** · SaaS
-- **Cabnave & Atlantic Shipping** · logistics
+- **Cabnave & Atlantic Shipping** · logistics. [Atlantic Shipping app on the App Store](https://apps.apple.com/us/app/atlantic-shipping/id6743943824) and [Google Play](https://play.google.com/store/apps/details?id=com.cargo.atlanticshipping).
 - **Prassa** · e-commerce
 
 ## 🚀 Projects

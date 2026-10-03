@@ -27,7 +27,7 @@ Mindelo, Cabo Verde. Engineered web and mobile apps with React, Next.js, React N
 
 - **[Ping](https://www.instagram.com/ping.cv/) / PingPOS** · fintech. [Covered by Mindel Insite, March 2023](https://mindelinsite.com/publireportagem/ping-o-aplicativo-para-o-envio-instantaneo-de-dinheiro-para-cabo-verde-e-dentro-das-ilhas/).
 - **Samba** · SaaS
-- **Cabnave & Atlantic Shipping** · logistics. [Atlantic Shipping app on the App Store](https://apps.apple.com/us/app/atlantic-shipping/id6743943824) and [Google Play](https://play.google.com/store/apps/details?id=com.cargo.atlanticshipping).
+- **Cabnave & Atlantic Shipping** · logistics
 - **Prassa** · e-commerce
 
 ## 🚀 Projects

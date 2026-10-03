@@ -17,9 +17,10 @@
 ### [CriaAI](https://criaai.com), through [IN8](https://www.in8.com.br) · Product Designer and Software Engineer · 2024 to today
 AI products for Brazilian lawyers. Remote, Florianópolis. I work across the consumer app, the two B2B products and internal tools, leading the front end of the B2B side.
 
-- **[Maestro Gestor de Peças](https://copiloto.criaai.com)** · lead front-end. Generates litigation documents from case files, a configurable thesis tree and AI-assisted question flows. Next.js 15, Redux Toolkit, Tailwind, Cypress. Shipped a full redesign screen by screen from written specs. I also built the thesis setup front end.
-- **[Maestro Cadastramento](https://processos.criaai.com)** · lead front-end. Case intake and office management: bulk registration from CSV and XLSX, folder and case detail, triage lists, office dashboard with ROI, user management. Next.js 14, RTK Query, Tailwind, shadcn, Docker.
-- **[criaai.app.br](https://criaai.app.br) (B2C)** · front-end. Built the front end of the consumer app almost entirely from the ground up.
+- **[Maestro Gestor de Peças](https://copiloto.criaai.com)** · drafts litigation documents from case files and a configurable thesis tree. Most of the front end, plus a full redesign.
+- **[Maestro Cadastramento](https://processos.criaai.com)** · case intake and office management dashboard. Front-end lead.
+- **[criaai.app.br](https://criaai.app.br)** · the consumer app. Front end built from the ground up.
+- Internal tools for the team.
 
 ### [Chuva](https://chuva.io) · Front-end and Mobile Engineer · 2022 to 2024
 Mindelo, Cabo Verde. Engineered web and mobile apps with React, Next.js, React Native and Webflow, designed in Figma, and served as interim Product Owner.
